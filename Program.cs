@@ -1,5 +1,4 @@
-﻿
-uppgift3();
+﻿uppgift4();
 
 void uppgift1(){
     string frukt= "äpple";
@@ -10,7 +9,6 @@ void uppgift1(){
 
 
 void uppgift2(){
-
     int tal1= 5;
     int tal2=10;
     int summa= tal1+tal2;
@@ -21,5 +19,12 @@ void uppgift3(){
     int Radie=rand.Next(1,100);
     double o = Radie*Radie*Math.PI;
     Console.WriteLine(o);
+}
+void uppgift4(){
+string namn="Alvin";
+string mat="thai mat";
+Console.WriteLine("Mitt namn är"+" " +(namn) +" "+"och jag gillar"+" "+(mat));
+}
+void uppgift5(){
     
 }

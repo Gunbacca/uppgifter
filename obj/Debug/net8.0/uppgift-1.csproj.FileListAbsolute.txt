@@ -12,3 +12,4 @@ C:\Users\Admin\Documents\GitHub\monogame2alex\uppgift-1\obj\Debug\net8.0\refint\
 C:\Users\Admin\Documents\GitHub\monogame2alex\uppgift-1\obj\Debug\net8.0\uppgift-1.pdb
 C:\Users\Admin\Documents\GitHub\monogame2alex\uppgift-1\obj\Debug\net8.0\uppgift-1.genruntimeconfig.cache
 C:\Users\Admin\Documents\GitHub\monogame2alex\uppgift-1\obj\Debug\net8.0\ref\uppgift-1.dll
+C:\Users\Admin\Documents\GitHub\monogame2alex\uppgift-1\obj\Debug\net8.0\uppgift-1.sourcelink.json
