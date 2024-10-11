@@ -1,4 +1,4 @@
-﻿uppgift4();
+﻿uppgift6();
 
 void uppgift1(){
     string frukt= "äpple";
@@ -20,11 +20,19 @@ void uppgift3(){
     double o = Radie*Radie*Math.PI;
     Console.WriteLine(o);
 }
-void uppgift4(){
-string namn="Alvin";
-string mat="thai mat";
-Console.WriteLine("Mitt namn är"+" " +(namn) +" "+"och jag gillar"+" "+(mat));
+    void uppgift4(){
+    string namn="Alvin";
+    string mat="thai mat";
+    Console.WriteLine("Mitt namn är"+" " +(namn) +" "+"och jag gillar"+" "+(mat));
 }
 void uppgift5(){
-    
+    Console.WriteLine("Skriv din ålder");
+    string ålder=Console.ReadLine();
+    int å=int.Parse(ålder);
+    Console.WriteLine("Du är "+ å +" år gammal");
+}
+void uppgift6(){
+    Console.WriteLine("Skriv ett tal");
+    string kvadrat=Console.ReadLine();
+    int k=int.Parse(kvadrat);
 }
