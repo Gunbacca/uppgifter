@@ -21,3 +21,10 @@ C:\Users\Alvin-Gaming\Documents\GitHub\uppgifter\obj\Debug\net8.0\uppgift-1.sour
 C:\Users\Alvin-Gaming\Documents\GitHub\uppgifter\obj\Debug\net8.0\uppgift-1.dll
 C:\Users\Alvin-Gaming\Documents\GitHub\uppgifter\obj\Debug\net8.0\refint\uppgift-1.dll
 C:\Users\Alvin-Gaming\Documents\GitHub\uppgifter\obj\Debug\net8.0\uppgift-1.pdb
+C:\Users\Alvin-Gaming\Documents\GitHub\uppgifter\bin\Debug\net8.0\uppgift-1.exe
+C:\Users\Alvin-Gaming\Documents\GitHub\uppgifter\bin\Debug\net8.0\uppgift-1.deps.json
+C:\Users\Alvin-Gaming\Documents\GitHub\uppgifter\bin\Debug\net8.0\uppgift-1.runtimeconfig.json
+C:\Users\Alvin-Gaming\Documents\GitHub\uppgifter\bin\Debug\net8.0\uppgift-1.dll
+C:\Users\Alvin-Gaming\Documents\GitHub\uppgifter\bin\Debug\net8.0\uppgift-1.pdb
+C:\Users\Alvin-Gaming\Documents\GitHub\uppgifter\obj\Debug\net8.0\uppgift-1.genruntimeconfig.cache
+C:\Users\Alvin-Gaming\Documents\GitHub\uppgifter\obj\Debug\net8.0\ref\uppgift-1.dll
