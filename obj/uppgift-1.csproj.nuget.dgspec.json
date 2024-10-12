@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Documents\\GitHub\\monogame2alex\\uppgift-1\\uppgift-1.csproj": {}
+    "C:\\Users\\Alvin-Gaming\\Documents\\GitHub\\uppgifter\\uppgift-1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Documents\\GitHub\\monogame2alex\\uppgift-1\\uppgift-1.csproj": {
+    "C:\\Users\\Alvin-Gaming\\Documents\\GitHub\\uppgifter\\uppgift-1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\monogame2alex\\uppgift-1\\uppgift-1.csproj",
+        "projectUniqueName": "C:\\Users\\Alvin-Gaming\\Documents\\GitHub\\uppgifter\\uppgift-1.csproj",
         "projectName": "uppgift-1",
-        "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\monogame2alex\\uppgift-1\\uppgift-1.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\monogame2alex\\uppgift-1\\obj\\",
+        "projectPath": "C:\\Users\\Alvin-Gaming\\Documents\\GitHub\\uppgifter\\uppgift-1.csproj",
+        "packagesPath": "C:\\Users\\Alvin-Gaming\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alvin-Gaming\\Documents\\GitHub\\uppgifter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Alvin-Gaming\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

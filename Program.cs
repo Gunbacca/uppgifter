@@ -36,3 +36,14 @@ void uppgift6(){
     string kvadrat=Console.ReadLine();
     int k=int.Parse(kvadrat);
 }
+void uppgift7();{
+    Console.WriteLine("skriv in två tal")
+    sting tal1=Console.ReadLine();
+    sting tal2=Console.ReadLine();
+    int tal3=int.Parse(tal1)
+    int tal4=int.Parse(tal2)
+    tal1+tal2=Summan
+    summan=
+    console.WriteLine("summan av "+tal1" och "+tal2+"är "+Summan )
+}
+

@@ -13,3 +13,11 @@ C:\Users\Admin\Documents\GitHub\monogame2alex\uppgift-1\obj\Debug\net8.0\uppgift
 C:\Users\Admin\Documents\GitHub\monogame2alex\uppgift-1\obj\Debug\net8.0\uppgift-1.genruntimeconfig.cache
 C:\Users\Admin\Documents\GitHub\monogame2alex\uppgift-1\obj\Debug\net8.0\ref\uppgift-1.dll
 C:\Users\Admin\Documents\GitHub\monogame2alex\uppgift-1\obj\Debug\net8.0\uppgift-1.sourcelink.json
+C:\Users\Alvin-Gaming\Documents\GitHub\uppgifter\obj\Debug\net8.0\uppgift-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alvin-Gaming\Documents\GitHub\uppgifter\obj\Debug\net8.0\uppgift-1.AssemblyInfoInputs.cache
+C:\Users\Alvin-Gaming\Documents\GitHub\uppgifter\obj\Debug\net8.0\uppgift-1.AssemblyInfo.cs
+C:\Users\Alvin-Gaming\Documents\GitHub\uppgifter\obj\Debug\net8.0\uppgift-1.csproj.CoreCompileInputs.cache
+C:\Users\Alvin-Gaming\Documents\GitHub\uppgifter\obj\Debug\net8.0\uppgift-1.sourcelink.json
+C:\Users\Alvin-Gaming\Documents\GitHub\uppgifter\obj\Debug\net8.0\uppgift-1.dll
+C:\Users\Alvin-Gaming\Documents\GitHub\uppgifter\obj\Debug\net8.0\refint\uppgift-1.dll
+C:\Users\Alvin-Gaming\Documents\GitHub\uppgifter\obj\Debug\net8.0\uppgift-1.pdb
